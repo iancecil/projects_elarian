@@ -3,9 +3,9 @@ const { Elarian } = require('elarian');
 
 // To initialize a client and connect with Elarian, you need an orgId, appId, and apiKey
 const client = new Elarian({
-    orgId: 'el_org_eu_cTF0k0',
-    appId: 'el_app_FWezqd',
-    apiKey: 'el_k_test_17fea30a19293a5dda4d15d6ed10dcbbfe928190bd12dd4e745c7849e2520319'
+    orgId: '',
+    appId: '',
+    apiKey: ''
 });
 
 client
@@ -20,9 +20,9 @@ async function onConnected() {
 // const { Elarian } = require('elarian');
 
 // const client = new Elarian({
-//     orgId: 'el_org_eu_cTF0k0',
-//     appId: 'el_app_FWezqd',
-//     apiKey: 'el_k_test_17fea30a19293a5dda4d15d6ed10dcbbfe928190bd12dd4e745c7849e2520319'
+//     orgId: '',
+//     appId: '',
+//     apiKey: ''
 // });
 
 // const whatsappChannel = {

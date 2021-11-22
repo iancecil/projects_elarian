@@ -1,0 +1,18 @@
+{
+  "name": "elections_jua_leader_wako",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1033.0",
+    "config": "^3.3.6",
+    "dotenv": "^10.0.0",
+    "elarian": "^0.2.20",
+    "signale": "^1.4.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "locations": [
+    "Nairobi",
+    "Nakuru",
+    "Kiambu",
+    "Mombasa",
+    "Kisumu"
+  ],
+  "hospitals": {
+    "Nairobi": [
+      "Matter Hospital",
+      "Nairobi Hospitals",
+      "MP Shah Hospital"
+    ],
+    "Nakuru": [
+      "PGH Hospital",
+      "Lanet Hospital"
+    ],
+    "Kiambu": [
+      "kiambu level 5",
+      "Mbagathi hospital"
+    ],
+    "Mombasa": [
+      "Mama lucy hospital",
+      "Guru nanak hospital"
+    ],
+    "Kisumu": [
+      "jaramogi hospital",
+      "lake victoria hospital"
+    ]
+  }
+}
